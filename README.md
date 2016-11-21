@@ -1,4 +1,4 @@
-# program-a-day
+# Program-A-Day
 I am Aswin. I am going to write a program a day to cover some basic concepts. Lets see how long the streak goes.
 
 # TO-DO
