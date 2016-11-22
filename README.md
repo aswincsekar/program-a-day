@@ -14,5 +14,5 @@ Icon-Authors :
 [PopcornArts](http://www.flaticon.com/authors/popcorns-arts)
 [vector-market](http://www.flaticon.com/authors/vectors-market)
 
-[boy]: https://github.com/aswincsekar/program-a-day/blob/master/src/common/images/png/boy.png "boy"
-[coding]: https://github.com/aswincsekar/program-a-day/blob/master/src/common/images/png/coding.png "coding"
+[boy]: https://github.com/aswincsekar/program-a-day/blob/master/src/common/images/png/24/boy.png "boy"
+[coding]: https://github.com/aswincsekar/program-a-day/blob/master/src/common/images/png/24/coding.png "coding"
